@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\steve\Desktop\4320\Project1as\Source.cpp(18,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\steve\Desktop\4320\Project1as\Source.cpp(580,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\steve\Desktop\4320\Project1as\Source.cpp(589,20): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Project2.vcxproj -> C:\Users\steve\Desktop\4320\Project2\Debug\Project2.exe

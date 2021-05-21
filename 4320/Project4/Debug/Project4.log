@@ -1,0 +1,4 @@
+﻿  source.cpp
+C:\Users\steve\Desktop\4320\Project4\source.cpp(18,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\steve\Desktop\4320\Project4\source.cpp(475,7): warning C4101: 'i': unreferenced local variable
+  Project4.vcxproj -> C:\Users\steve\Desktop\4320\Project4\Debug\Project4.exe
